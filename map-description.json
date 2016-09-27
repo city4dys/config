@@ -1,0 +1,22 @@
+{
+    maps:[
+        general:{
+            bbox:[0,0,0,0],
+            minZoomLevel:3,
+            maxZoomLevel:10,
+            mapUrl:"http://osm4dys.org/YYY",
+            idUrl:"http://www.osm4dys.org/XXX",
+            dataUrl:"http://www.osm4dys.org/ZZZ",
+            lastUpdate:"2012-04-23T18:25:43.511Z",
+        },
+        test-city:{
+            bbox:[0,0,0,0],
+            minZoomLevel:0,
+            maxZoomLevel:10,
+            mapUrl:"http://osm4dys.org/YYY",
+            idUrl:"http://www.osm4dys.org/XXX",
+            dataUrl:"http://www.osm4dys.org/ZZZ"
+            lastUpdate:"2012-04-23T18:25:43.511Z"
+        }
+    ]
+}
